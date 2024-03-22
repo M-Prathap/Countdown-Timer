@@ -1,0 +1,7 @@
+.Display {
+  background: linear-gradient(to bottom left, #24c6dc 10%, #f607ce 90%);
+  border-radius: 1rem;
+  margin: 1rem 0;
+  width: 6rem;
+  justify-content: space-between;
+}
